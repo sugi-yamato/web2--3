@@ -1,10 +1,17 @@
 
 @charset "UTF-8"; 
-  h1　span{
+h1{
+    font-size: 1.75em;
+    color: #3399cc;
+    text-align: center;
+}
+
+ h1　span{
     font-size: 1.75em;
     color: #3385cc;
     text-align:left;
 }
+
 h1　a{
     font-size: 1.75em;
     color: #3385cc;
